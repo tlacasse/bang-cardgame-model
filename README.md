@@ -38,7 +38,7 @@ The simplified card groupings are as follows:
 - *Dynamite* - at the beginning of your turn, draw a **card**, if a *spade 2-9**, lose 3 **health**.
 - *Mustang* - other players view you at a **distance** +1.
 - *Scope* - view other players at a **distance** -1.
-- *~Various Guns~* - increase **range**.
+- *-Various Guns-* - increase **range**.
 
 .......
 * All cards have a suit and a number.
